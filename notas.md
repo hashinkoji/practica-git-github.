@@ -4,3 +4,7 @@ Comandos aprendidos:
 3. git add
 
 GitHub es una plataforma que aloja repositorios en la nube, permitiendo respaldar el código y colaborar con otros desarrolladores de forma remota.
+
+git clone: Sirve para copiar un repositorio remoto existente a mi computadora.
+
+git pull: Sirve para bajar los ultimos cambios desde GitHub a mi local.
